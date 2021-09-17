@@ -1,0 +1,79 @@
+/*style*/
+
+/* html tags */
+
+body {}
+
+h1 {}
+
+h3 {}
+
+img {}
+
+div {}
+
+p {}
+
+li {}
+
+table {}
+
+/* classes */
+
+.company-name {}
+
+.company-working-time {}
+
+.role-name {}
+
+.role-working-time {}
+
+.school-name {}
+
+.title {}
+
+.course-name {}
+
+.course-time {}
+
+.accomplishments-count {}
+
+.accomplishments-item {}
+
+.accomplishments-description {}
+
+.interests-item {}
+
+.interests-item-name {}
+
+/* ids */
+
+#header {}
+
+#background {}
+
+#info {}
+
+#current-info {}
+
+#my-name {}
+
+#title {}
+
+#location {}
+
+#last-info {}
+
+#last-company {}
+
+#last-education {}
+
+#about {}
+
+#experience {}
+
+#education {}
+
+#accomplishments {}
+
+#interests {}
