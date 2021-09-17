@@ -4,47 +4,103 @@
 
 body {}
 
-h1 {}
+h1 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+}
 
-h3 {}
+h3 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1rem;
+}
 
 img {}
 
 div {}
 
-p {}
+p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 0.8rem;
+}
 
-li {}
+li {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 0.8rem;
+    list-style-type: none;
+}
 
 table {}
 
 /* classes */
 
-.company-name {}
+.company-name {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 0.9rem;
+    font-weight: bold;
+}
 
-.company-working-time {}
+.company-working-time {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 0.8rem;
+}
 
-.role-name {}
+.role-name {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 0.8rem;
+    font-weight: bold;
+}
 
-.role-working-time {}
+.role-working-time {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 0.8rem;
+    color: gray;
+}
 
-.school-name {}
+.school-name {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 0.9rem;
+    font-weight: bold;
+}
 
-.title {}
+.title {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 0.8rem;
+}
 
-.course-name {}
+.course-name {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 0.8rem;
+}
 
-.course-time {}
+.course-time {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 0.8rem;
+    color: gray;
+}
 
-.accomplishments-count {}
+.accomplishments-count {
+    font-family: Helvetica, Arial, sans-serif;
+    color: blue;
+    font-size: 2rem
+}
 
-.accomplishments-item {}
+.accomplishments-item {
+    font-family: Helvetica, Arial, sans-serif;
+    color: blue;
+    font-size: 0.8rem;
+    font-weight: bold;
+}
 
 .accomplishments-description {}
 
 .interests-item {}
 
-.interests-item-name {}
+.interests-item-name {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 0.8rem;
+    font-weight: bold;
+}
 
 /* ids */
 
@@ -58,15 +114,30 @@ table {}
 
 #my-name {}
 
-#title {}
+#title {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1rem
+}
 
-#location {}
+#location {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1rem;
+    color: gray;
+}
 
 #last-info {}
 
-#last-company {}
+#last-company {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 0.8rem;
+    font-weight: bold;
+}
 
-#last-education {}
+#last-education {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 0.8rem;
+    font-weight: bold;
+}
 
 #about {}
 
