@@ -2,7 +2,11 @@
 
 /* html tags */
 
-body {}
+body {
+    margin: 10px auto;
+    width: 70%;
+    background-color: #f3f2ef;
+}
 
 h1 {
     font-family: Helvetica, Arial, sans-serif;
@@ -102,6 +106,16 @@ table {}
     font-weight: bold;
 }
 
+.card {
+    border-style: solid;
+    background-color: white;
+    border-color: lightgray;
+    border-width: 0.025em;
+    padding: 1em;
+    margin: 1em;
+    border-radius: 15px;
+}
+
 /* ids */
 
 #header {}
@@ -148,3 +162,19 @@ table {}
 #accomplishments {}
 
 #interests {}
+
+#my-picture {
+    border-radius: 100px;
+    border-color: white;
+    border-width: 0.25em;
+    border-style: solid;
+    margin-top: -17%;
+    margin-left: 5%;
+}
+
+#background {
+    border-radius: 15px 15px 0px 15px;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    padding: 100px;
+}
